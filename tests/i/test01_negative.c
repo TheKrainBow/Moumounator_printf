@@ -1,4 +1,6 @@
 #include "libft.h"
+#include "wrappers.h"
+
 #include <stdio.h>
 
 #define TESTED_INT -42
